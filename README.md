@@ -1,8 +1,3 @@
-# Test
+# Sub repository
 
-update from the base repo
-
-update from the sub repo
-
-update from the base repo
-
+This is a good place to store content that is shared and updated from multiple repositories.
